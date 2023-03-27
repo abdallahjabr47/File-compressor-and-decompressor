@@ -11,7 +11,7 @@ Developed using:
 - Java for the functionality.
 - JavaFX for the interface.
 
-
+<br>
 
 ## Authors
 
